@@ -4,3 +4,7 @@ plugins:
 - jekyll-remote-theme 
 title: Salt Lake Adaptive Robotics Program
 description: information about robotics for people with intellectual disabilities
+author:
+  name:           Salt Lake Adaptive Robotics Program
+  url:            https://desertsjade.github.io
+  email:
